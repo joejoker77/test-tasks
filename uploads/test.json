@@ -1,0 +1,12 @@
+{
+  "level_1":
+  {
+    "level_2": "word_1",
+    "level_2_1":"word_2",
+    "level_2_2":{
+      "level_3":"word_3",
+      "level_3_1":"word_3_1"
+    },
+    "level_2_3":"word_3"
+  }
+}
